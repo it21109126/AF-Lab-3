@@ -1,0 +1,19 @@
+{
+  "name": "af-lab-3",
+  "version": "1.0.0",
+  "description": "AF Labsheet 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/it21109126/AF-Lab-3.git"
+  },
+  "author": "IT21109126",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/it21109126/AF-Lab-3/issues"
+  },
+  "homepage": "https://github.com/it21109126/AF-Lab-3#readme"
+}
