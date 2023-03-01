@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/it21109126/AF-Lab-3/issues"
   },
-  "homepage": "https://github.com/it21109126/AF-Lab-3#readme"
+  "homepage": "https://github.com/it21109126/AF-Lab-3#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
 }
